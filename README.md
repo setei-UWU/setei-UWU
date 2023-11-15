@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 
-I am a developer everywhere.
+I'm a developer everywhere.
 
 <br />
 
